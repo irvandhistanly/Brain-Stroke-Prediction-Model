@@ -1,0 +1,2 @@
+deployment: https://huggingface.co/spaces/irvandhistanly/Milestone2
+dataset: https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset
