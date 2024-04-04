@@ -1,4 +1,9 @@
 # Brain Stroke Prediction Model
+
+[Dataset](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset)
+
+[Deployment](https://huggingface.co/spaces/irvandhistanly/Milestone2)
+
 ## Introduction:
 This project aims to develop a predictive model for identifying individuals at risk of experiencing a brain stroke. By analyzing demographic, lifestyle, and medical data, the goal is to create a reliable tool that can assist healthcare professionals in early detection and prevention strategies. With accurate predictions, medical resources can be allocated more efficiently, and interventions can be implemented to reduce the incidence of brain strokes and improve patient outcomes. In this project, various classification algorithm will be evaluated to find the best model for the dataset
 
